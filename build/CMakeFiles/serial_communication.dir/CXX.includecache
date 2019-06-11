@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pradheep/relayboard_serial_comm/src/main.cpp
+iostream
+-
+fcntl.h
+-
+termios.h
+-
+unistd.h
+-
+string.h
+-
+fstream
+-
+thread
+-
+math.h
+-
+

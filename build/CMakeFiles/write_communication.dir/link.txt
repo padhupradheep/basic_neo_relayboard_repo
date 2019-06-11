@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/write_communication.dir/src/main.cpp.o CMakeFiles/write_communication.dir/src/SerialIO.cpp.o  -o ../bin/write_communication 

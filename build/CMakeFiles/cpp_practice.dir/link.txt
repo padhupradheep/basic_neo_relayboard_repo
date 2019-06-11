@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/cpp_practice.dir/src/main.cpp.o  -o ../bin/cpp_practice 

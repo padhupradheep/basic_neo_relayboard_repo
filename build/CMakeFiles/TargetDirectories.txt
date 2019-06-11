@@ -1,0 +1,4 @@
+/home/pradheep/relayboard_serial_comm/build/CMakeFiles/rebuild_cache.dir
+/home/pradheep/relayboard_serial_comm/build/CMakeFiles/edit_cache.dir
+/home/pradheep/relayboard_serial_comm/build/CMakeFiles/write_communication.dir
+/home/pradheep/relayboard_serial_comm/build/CMakeFiles/read_communication.dir
